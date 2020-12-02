@@ -43,7 +43,6 @@ p {
   position: relative;
   height: 177px;
   width: 938px;
-  background-image: url("/images/top.jpg");
   background-repeat: no-repeat;
   border-bottom: solid 1px rgb(74, 89, 102);
 }
@@ -92,7 +91,6 @@ p {
   min-height: 600px;
   height: 100%;
   float: left;
-  background-image: url("/images/left.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
 }
@@ -168,17 +166,14 @@ a:hover {
 }
 
 #local-img1 {
-  background-image: url("/images/nagoya-cstl.jpg");
   float: left;
 }
 
 #local-img2 {
-  background-image: url("/images/nu-esbldg.jpg");
   float: right;
 }
 
 #springer-img {
-  background-image: url("/images/springer.png");
   background-repeat: no-repeat;
   background-position: center;
   height: 50px;
