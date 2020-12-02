@@ -1,0 +1,21 @@
+year: "2021"
+edition: "13th"
+title: "Reversible Computation (RC)"
+date: "July 7 - July 9, 2021"
+place: "Nagoya, Japan"
+tz:
+  friendly: "Tokyo"
+  iana: "asia/tokyo"
+  offset: "UTC+09:00"
+links:
+  easychair: "https://easychair.org/conferences/?conf=rc2021"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - README.md
