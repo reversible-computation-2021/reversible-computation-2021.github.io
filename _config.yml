@@ -1,7 +1,7 @@
 year: "2021"
 edition: "13th"
 title: "Reversible Computation (RC)"
-date: "July 7 - July 9, 2021"
+date: "July 7 - July 8, 2021"
 place: "Nagoya, Japan"
 tz:
   friendly: "Tokyo"
@@ -20,5 +20,4 @@ defaults:
     values:
       layout: "default"
 
-exclude:
-  - README.md
+exclude: ['vendor', 'README.md']
